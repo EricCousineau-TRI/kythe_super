@@ -1,0 +1,3 @@
+[submodule "kythe"]
+	path = kythe
+	url = https://github.com/EricCousineau-TRI/kythe.git
