@@ -5,5 +5,6 @@ cc_binary(
     ],
     deps = [
         "@eigen//:lib",
+        "//external:test_lib",
     ],
 )
